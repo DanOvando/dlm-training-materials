@@ -1,2 +1,2 @@
 # dlm-training-materials
-Materials for training on data-limited fisheries methods in Indonesia with Environmental Defense Fund
+Central repository for data-limited assessment training materials
